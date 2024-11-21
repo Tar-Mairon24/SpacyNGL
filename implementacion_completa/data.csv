@@ -1,260 +1,3457 @@
 phrase,label
 Enciende los faros en bajo,FARO1
-Prende los faros luz baja,FARO1
-Activa los faros bajo,FARO1
-Pon los faros bajito,FARO1
-Faros encendidos en bajito,FARO1
-Luz delantera encendida tenue,FARO1
-Activa las luces delanteras en bajo,FARO1
-Enciende las luces en bajo,FARO1
-Prende las luces bajito,FARO1
-Prende las luces bajo,FARO1
-Faros bajo,FARO1
-Prende faros,FARO1
-Prende faros bajito,FARO1
-Prende faros en bajo,FARO1
-Pon las luces delanteras encendidas y bajo,FARO1
-Prende las luces delanteras bajas,FARO1
-Ilumina el camino bajito,FARO1
-Luz frontal en bajo,FARO1
-Enciende los focos bajo,FARO1
-Prende las luces frontales en bajo,FARO1
-Luz encendida en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
 Focos activados en bajo,FARO1
-Focos activados bajito,FARO1
-Luz de adelante prendida en bajo,FARO1
-podrias prender los faros en bajo porfavor,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+
 Enciende los faros en bajo,FARO1
 Prende los faros en bajo,FARO1
 Activa los faros en bajo,FARO1
 Pon los faros en bajo,FARO1
-Enciende los faros bajito,FARO1
-Prende los faros bajito,FARO1
-Pon las luces en modo bajo,FARO1
-Enciende las luces delanteras en bajo,FARO1
-Prende las luces delanteras en bajo,FARO1
-Activa la luz delantera en bajo,FARO1
-Activa las luces en modo tenue,FARO1
-Prende las luces tenues,FARO1
-Pon la luz baja,FARO1
-Prende las luces bajas,FARO1
-Activa las luces bajas,FARO1
-Luz frontal baja activada,FARO1
-Faros activados en bajo,FARO1
-Enciende los focos en modo bajo,FARO1
-Luz delantera en intensidad baja,FARO1
-Luz tenue en los faros,FARO1
-Luz baja al frente,FARO1
-Ilumina en bajo,FARO1
-Ilumina el camino en bajo,FARO1
-Luz frontal tenue,FARO1
-Focos encendidos bajito,FARO1
-Focos activados en modo tenue,FARO1
-Prende los faros pero en bajo,FARO1
-Luz frontal con intensidad baja,FARO1
-Faros a mínima intensidad,FARO1
-Quiero que las luces estén en bajo,FARO1
-Enciende los faros en modo suave,FARO1
-Activa los faros en modo tenue,FARO1
-Luz tenue encendida,FARO1
-Luz suave al frente,FARO1
-Faros al mínimo,FARO1
-Por favor prende los faros en bajo,FARO1
-¿Puedes encender las luces en bajo?,FARO1
-¿Podrías activar los faros en modo bajo?,FARO1
-¿Prendes las luces tenues?,FARO1
-Quiero iluminación tenue,FARO1
-Activa la iluminación en bajo,FARO1
-Prende las luces al mínimo,FARO1
-Luz tenue adelante,FARO1
-Pon las luces al frente en bajo,FARO1
-Baja la intensidad de los faros,FARO1
-Prende los faros con baja intensidad,FARO1
-Faros encendidos en intensidad baja,FARO1
-Activa la iluminación frontal en bajo,FARO1
-Luz tenue activada al frente,FARO1
-Faros en modo bajo por favor,FARO1
-Faros a baja intensidad activados,FARO1
-¿Podrías poner los faros en luz baja?,FARO1
 Faros en bajo activados,FARO1
-Pon las luces suaves,FARO1
-Pon la luz tenue en frente,FARO1
-Enciende los faros en intensidad reducida,FARO1
-Prende las luces a intensidad baja,FARO1
-Activa las luces al mínimo,FARO1
-Quiero los faros en luz tenue,FARO1
-Luz delantera tenue activada,FARO1
-Pon luz tenue,FARO1
-Prende las luces con intensidad reducida,FARO1
-Activa los faros en luz baja,FARO1
-Prende faros alto,FARO2
-Prende faros alto,FARO2
-Prende faros en alto,FARO2
-Enciende faros alto,FARO2
-Enciende faros en alto,FARO2
-Pon los faros en alto,FARO2
-Enciende los faros en alto,FARO2
-Activa los faros en modo alto,FARO2
-Prende los faros a máxima intensidad,FARO2
-Pon los faros en modo alto,FARO2
-Luz alta activada,FARO2
-Iluminación máxima,FARO2
-Faros al máximo,FARO2
-Modo alto de faros on,FARO2
-Activa las luces altas,FARO2
-Enciende las luces altas,FARO2
-Prende las luces en modo fuerte,FARO2
-Faros en intensidad máxima,FARO2
-Modo de luz alta on,FARO2
-Pon las luces en alto,FARO2
-Luz máxima activada,FARO2
-Faros en modo alto,FARO2
-Luces altas encendidas,FARO2
-Iluminación alta,FARO2
-Iluminación en alto,FARO2
-Prende faros alto,FARO2
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
 Enciende los faros en alto,FARO2
 Activa los faros en alto,FARO2
 Pon los faros en alto,FARO2
-Prende las luces en alto,FARO2
-Luz alta activada,FARO2
-Faros en modo alto,FARO2
+Faros en alto activados,FARO2
 Faros al máximo,FARO2
-Activa los faros a máxima intensidad,FARO2
-Pon los faros en máxima intensidad,FARO2
-Luz delantera encendida en alto,FARO2
-Faros iluminando al máximo,FARO2
-Ilumina con faros altos,FARO2
+Enciende las luces altas,FARO2
 Prende las luces delanteras en alto,FARO2
-Luces delanteras activadas en alto,FARO2
-Pon la luz frontal en alta intensidad,FARO2
-Activa las luces con alta potencia,FARO2
-Luz fuerte encendida,FARO2
-Faros brillantes activados,FARO2
-Luz delantera potente,FARO2
-Activa las luces a máxima potencia,FARO2
-Faros a tope,FARO2
-Luz alta encendida,FARO2
-Prende los faros al máximo,FARO2
-Prende las luces en intensidad máxima,FARO2
-Modo de faros altos activado,FARO2
-Iluminación frontal al máximo,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
 Ilumina el camino en alto,FARO2
-Luz brillante adelante,FARO2
-Luz delantera fuerte,FARO2
-Faros con iluminación máxima,FARO2
-¿Puedes encender las luces altas?,FARO2
-¿Podrías activar los faros en alto?,FARO2
-Quiero los faros en modo alto,FARO2
-Por favor activa los faros altos,FARO2
-Prende las luces potentes,FARO2
-Pon los faros al máximo,FARO2
-Luz frontal potente activada,FARO2
-Faros en máxima potencia,FARO2
-Activa la iluminación alta,FARO2
-Prende las luces al máximo,FARO2
-Ilumina con máxima intensidad,FARO2
-Luces en modo fuerte activadas,FARO2
 Prende los focos en alto,FARO2
-Activa los focos con potencia máxima,FARO2
-Enciende la luz en intensidad alta,FARO2
-Pon los focos en modo alto,FARO2
-Focos delanteros en alto,FARO2
-Activa el modo de iluminación máxima,FARO2
-Pon los faros en luz fuerte,FARO2
-Luz fuerte activada,FARO2
-Luz intensa encendida,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
 Faros en intensidad máxima,FARO2
-Luz brillante al frente,FARO2
-Faros al máximo nivel,FARO2
-Luz alta activada adelante,FARO2
-Quiero iluminación alta,FARO2
-¿Puedes poner las luces al máximo?,FARO2
-Activa la luz frontal alta,FARO2
-Prende la luz delantera fuerte,FARO2
-Faros en alta intensidad,FARO2
-Faros al tope de potencia,FARO2
-Luz frontal al máximo nivel,FARO2
-Por favor prende los faros a máxima intensidad,FARO2
-Luz intensa al frente,FARO2
-Modo alto activado en los faros,FARO2
-Pon la luz máxima adelante,FARO2
-Ilumina al máximo con los faros,FARO2
-Luces potentes activadas,FARO2
-Focos encendidos a máxima potencia,FARO2
-Apaga faros,FARO0
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
 Apaga los faros,FARO0
-Desactiva los faros,FARO0
 Faros apagados,FARO0
-Luz delantera apagada,FARO0
-Desconecta las luces delanteras,FARO0
-Desactiva las luces delanteras,FARO0
-Faros off,FARO0
-Apaga la luz frontal,FARO0
-Focos apagados,FARO0
-Apaga la iluminación,FARO0
-Apaga la luz del frente,FARO0
-Luz apagada adelante,FARO0
-Focos desactivados,FARO0
-Cierra los faros,FARO0
-Desactiva los focos,FARO0
-Luz frontal off,FARO0
-Apaga faros,FARO0
-Apaga los faros,FARO0
 Desactiva los faros,FARO0
-Faros apagados,FARO0
 Luz delantera apagada,FARO0
-Desconecta las luces delanteras,FARO0
-Desactiva las luces delanteras,FARO0
-Faros off,FARO0
-Apaga la luz frontal,FARO0
-Focos apagados,FARO0
-Apaga la iluminación,FARO0
-Apaga la luz del frente,FARO0
-Luz apagada adelante,FARO0
-Focos desactivados,FARO0
-Cierra los faros,FARO0
-Desactiva los focos,FARO0
-Luz frontal off,FARO0
-Apaga todas las luces,FARO0
-Por favor apaga los faros,FARO0
-¿Puedes apagar las luces?,FARO0
-¿Podrías apagar los faros?,FARO0
-Quiero que apagues las luces,FARO0
-Luz delantera en off,FARO0
-Focos delanteros apagados,FARO0
-Luces desactivadas,FARO0
-Desactiva toda la iluminación,FARO0
-Focos en modo apagado,FARO0
-Quiero los faros apagados,FARO0
-Luz frontal desconectada,FARO0
-Luz delantera completamente apagada,FARO0
-Por favor cierra los faros,FARO0
-Corta la iluminación,FARO0
-Desconecta las luces,FARO0
-Focos completamente apagados,FARO0
-Apaga todas las luces delanteras,FARO0
-Faros en modo off,FARO0
-Desactiva toda la luz,FARO0
 Apaga la iluminación delantera,FARO0
-Apaga la luz al frente,FARO0
-¿Me ayudas a apagar los faros?,FARO0
-Quiero que las luces estén en off,FARO0
-Cierra la luz frontal,FARO0
-Pon la luz delantera en off,FARO0
-Modo sin luz activado,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
 Pon los faros en off,FARO0
-Desactiva los faros delanteros,FARO0
-Luz frontal apagada completamente,FARO0
-Faros fuera de servicio,FARO0
-Apaga las luces completamente,FARO0
-Modo oscuro activado,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
 Corta la energía de los faros,FARO0
-Focos en modo apagado total,FARO0
-Apaga las luces ya,FARO0
-¿Puedes desactivar las luces del frente?,FARO0
-Apaga la iluminación frontal,FARO0
-Quiero los focos desactivados,FARO0
-Faros apagados al 100%,FARO0
-Pon los faros en modo apagado,FARO0
-Por favor apaga todas las luces delanteras,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+Enciende los faros en bajo,FARO1
+Prende los faros en bajo,FARO1
+Activa los faros en bajo,FARO1
+Pon los faros en bajo,FARO1
+Faros en bajo activados,FARO1
+Prende las luces en bajo,FARO1
+Luz delantera en bajo,FARO1
+Enciende las luces delanteras en bajo,FARO1
+Faros activados en bajo,FARO1
+Focos activados en bajo,FARO1
+Luz tenue activada,FARO1
+Faros al mínimo,FARO1
+Ilumina el camino en bajo,FARO1
+Prende la luz frontal en bajo,FARO1
+Prende las luces delanteras en bajo,FARO1
+Activa las luces en bajo,FARO1
+Faros encendidos en intensidad baja,FARO1
+Luz frontal baja activada,FARO1
+Activa la iluminación en bajo,FARO1
+Prende los focos en bajo,FARO1
+Luz frontal tenue activada,FARO1
+Por favor prende los faros en bajo,FARO1
+Pon las luces delanteras en bajo,FARO1
+Configura los faros en bajo,FARO1
+Deja los faros en bajo,FARO1
+Faros funcionando en bajo,FARO1
+Enciende los faros delanteros en bajo,FARO1
+Prende los faros para iluminación baja,FARO1
+Luz delantera con brillo tenue,FARO1
+Faros delanteros en modo bajo,FARO1
+Activa las luces frontales en baja intensidad,FARO1
+Coloca las luces en modo bajo,FARO1
+Faros listos en bajo,FARO1
+
+Prende los faros en alto,FARO2
+Enciende los faros en alto,FARO2
+Activa los faros en alto,FARO2
+Pon los faros en alto,FARO2
+Faros en alto activados,FARO2
+Faros al máximo,FARO2
+Enciende las luces altas,FARO2
+Prende las luces delanteras en alto,FARO2
+Luz alta activada,FARO2
+Activa las luces altas,FARO2
+Luz frontal alta activada,FARO2
+Faros iluminando al máximo,FARO2
+Ilumina el camino en alto,FARO2
+Prende los focos en alto,FARO2
+Pon los faros a máxima intensidad,FARO2
+Activa la iluminación en alto,FARO2
+Faros en intensidad máxima,FARO2
+Por favor activa los faros en alto,FARO2
+Configura los faros en alto,FARO2
+Ilumina completamente con los faros,FARO2
+Faros delanteros a máxima potencia,FARO2
+Enciende la luz frontal en alto,FARO2
+Activa la luz delantera con intensidad alta,FARO2
+Coloca los faros en máxima intensidad,FARO2
+Faros delanteros encendidos en alto,FARO2
+Modo iluminación alta activado,FARO2
+Aumenta la potencia de los faros,FARO2
+Luz delantera en modo alto,FARO2
+
+Apaga los faros,FARO0
+Faros apagados,FARO0
+Desactiva los faros,FARO0
+Luz delantera apagada,FARO0
+Apaga la iluminación delantera,FARO0
+Apaga la luz del frente,FARO0
+Desconecta las luces delanteras,FARO0
+Cierra los faros,FARO0
+Focos apagados,FARO0
+Pon los faros en off,FARO0
+Apaga las luces delanteras,FARO0
+Desactiva completamente los faros,FARO0
+Faros en estado apagado,FARO0
+Deja los faros apagados,FARO0
+Apaga todas las luces delanteras,FARO0
+Faros delanteros fuera de servicio,FARO0
+Corta la energía de los faros,FARO0
+Desconecta la iluminación delantera,FARO0
+Faros desactivados por completo,FARO0
+Luz delantera fuera de servicio,FARO0
+
+Apaga las luces de los pasajeros,LUZ0
+Desactiva las luces de los pasajeros,LUZ0
+Apaga la luz interior,LUZ0
+Luz interior apagada,LUZ0
+Cierra la luz de los pasajeros,LUZ0
+Apaga las luces interiores,LUZ0
+Apaga la luz de cabina,LUZ0
+Luz de cabina apagada,LUZ0
+Desactiva la luz interior,LUZ0
+Luz interior off,LUZ0
+Cierra la iluminación de los pasajeros,LUZ0
+Pon la luz interior en off,LUZ0
+Desconecta las luces de la cabina,LUZ0
+Luz de los pasajeros desactivada,LUZ0
+Desactiva la iluminación interna,LUZ0
+Deja la luz de los pasajeros apagada,LUZ0
+Apaga las luces internas de la cabina,LUZ0
+Luz interna fuera de servicio,LUZ0
+
+Enciende las luces de los pasajeros,LUZ1
+Prende la luz interior,LUZ1
+Luz interior encendida,LUZ1
+Activa la luz de los pasajeros,LUZ1
+Luz de cabina encendida,LUZ1
+Prende las luces interiores,LUZ1
+Enciende la luz de cabina,LUZ1
+Luz interior on,LUZ1
+Luz trasera encendida,LUZ1
+Iluminación interior activa,LUZ1
+Luz de los pasajeros encendida,LUZ1
+Activa la iluminación trasera,LUZ1
+Prende la iluminación de los pasajeros,LUZ1
+Ilumina la cabina,LUZ1
+Pon la luz de los pasajeros,LUZ1
+Activa las luces internas,LUZ1
+Prende las luces traseras,LUZ1
+Configura la luz de los pasajeros en on,LUZ1
+Luz interior habilitada,LUZ1
+Iluminación interna lista,LUZ1
+Conecta la luz de la cabina,LUZ1
+Luz interna activa,FARO1
+
+Apaga las luces del conductor,CONDUCTOR0
+Desactiva las luces del conductor,CONDUCTOR0
+Apaga la luz del conductor,CONDUCTOR0
+Luz del conductor apagada,CONDUCTOR0
+Cierra la luz del conductor,CONDUCTOR0
+Apaga la iluminación del conductor,CONDUCTOR0
+Pon la luz del conductor en off,CONDUCTOR0
+Desconecta las luces del conductor,CONDUCTOR0
+Luz del conductor desactivada,CONDUCTOR0
+Apaga todas las luces del conductor,CONDUCTOR0
+Iluminación del conductor apagada,CONDUCTOR0
+Desactiva la luz de la cabina del conductor,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Luz del conductor fuera de servicio,CONDUCTOR0
+Deja la luz del conductor apagada,CONDUCTOR0
+Apaga la luz de cabina del conductor,CONDUCTOR0
+Cierra completamente la luz del conductor,CONDUCTOR0
+Luz del conductor en estado apagado,CONDUCTOR0
+
+Enciende las luces del conductor,CONDUCTOR1
+Prende las luces del conductor,CONDUCTOR1
+Activa las luces del conductor,CONDUCTOR1
+Luz del conductor encendida,CONDUCTOR1
+Ilumina la cabina del conductor,CONDUCTOR1
+Luz del conductor activada,CONDUCTOR1
+Prende la luz del conductor,CONDUCTOR1
+Enciende la luz de cabina del conductor,CONDUCTOR1
+Iluminación del conductor activa,CONDUCTOR1
+Pon la luz del conductor en on,CONDUCTOR1
+Activa la iluminación del conductor,CONDUCTOR1
+Conecta las luces del conductor,CONDUCTOR1
+Configura la luz del conductor en encendido,CONDUCTOR1
+Luz del conductor habilitada,CONDUCTOR1
+Luz interna del conductor encendida,CONDUCTOR1
+Por favor enciende la luz del conductor,CONDUCTOR1
+Luz de cabina del conductor activada,CONDUCTOR1
+Activa completamente la luz del conductor,CONDUCTOR1
+
+Apágame los faros en bajo,FARO1
+Préndeme los faros en bajo,FARO1
+Actívame los faros en bajo,FARO1
+Ponme los faros en bajo,FARO1
+Enciéndeme los faros en bajo,FARO1
+Préndeme las luces delanteras en bajo,FARO1
+Actívame las luces delanteras en bajo,FARO1
+Ilumíname el camino en bajo,FARO1
+Configúrame los faros en bajo,FARO1
+Déjame los faros en bajo,FARO1
+Ponme las luces delanteras en bajo,FARO1
+Enciéndeme los focos en bajo,FARO1
+Préndeme la luz frontal en bajo,FARO1
+Actívame los faros en baja intensidad,FARO1
+Préndeme los faros a baja potencia,FARO1
+Apágame los faros delanteros en baja intensidad,FARO1
+Ponme los faros delanteros en baja,FARO1
+Déjame los faros en mínima intensidad,FARO1
+
+Apágame los faros en alto,FARO2
+Préndeme los faros en alto,FARO2
+Actívame los faros en alto,FARO2
+Ponme los faros en alto,FARO2
+Enciéndeme los faros en alto,FARO2
+Configúrame los faros en alto,FARO2
+Déjame los faros en alto,FARO2
+Ilumíname el camino en alto,FARO2
+Ponme las luces delanteras en alto,FARO2
+Préndeme las luces delanteras en alto,FARO2
+Actívame las luces delanteras en alto,FARO2
+Enciéndeme la luz frontal en alto,FARO2
+Ilumíname con los faros en alto,FARO2
+Préndeme los focos a máxima intensidad,FARO2
+Ponme los faros a máxima potencia,FARO2
+Enciéndeme los faros con luz intensa,FARO2
+Apágame los faros delanteros en alta intensidad,FARO2
+Déjame los faros a máxima luminosidad,FARO2
+
+Apágame los faros,FARO0
+Desactívame los faros,FARO0
+Ponme los faros en off,FARO0
+Cierra los faros por mí,FARO0
+Déjame los faros apagados,FARO0
+Desconéctame las luces delanteras,FARO0
+Apágame todas las luces delanteras,FARO0
+Corta la energía de los faros,FARO0
+Apágame los faros delanteros,FARO0
+Desactívame la luz frontal,FARO0
+Apágame las luces delanteras completamente,FARO0
+Ponme los faros en modo apagado,FARO0
+Faros apagados completamente,FARO0
+Apágame todas las luces frontales,FARO0
+Desactiva las luces delantera por completo,FARO0
+
+Apágame las luces de los pasajeros,LUZ0
+Desactívame las luces de los pasajeros,LUZ0
+Ponme la luz interior en off,LUZ0
+Ciérrame la iluminación de los pasajeros,LUZ0
+Apágame la luz de cabina,LUZ0
+Déjame la luz de los pasajeros apagada,LUZ0
+Desconéctame la luz interior,LUZ0
+Apágame la luz trasera,LUZ0
+Apágame todas las luces internas,LUZ0
+Ponme las luces interiores en modo apagado,LUZ0
+Apágame la luz interior por favor,LUZ0
+Desactívame la luz de los pasajeros completamente,LUZ0
+Ponme la luz interior en estado apagado,LUZ0
+Ciérrame toda la iluminación de la cabina,LUZ0
+
+Enciéndeme las luces de los pasajeros,LUZ1
+Préndeme la luz interior,LUZ1
+Actívame la luz de los pasajeros,LUZ1
+Ponme la luz de los pasajeros,LUZ1
+Préndeme la iluminación trasera,LUZ1
+Configúrame la luz de los pasajeros en encendido,LUZ1
+Ilumíname la cabina con las luces interiores,LUZ1
+Déjame las luces de los pasajeros encendidas,LUZ1
+Actívame las luces internas del vehículo,LUZ1
+Ponme las luces interiores en encendido,LUZ1
+Préndeme la luz de cabina,LUZ1
+Enciéndeme las luces traseras,LUZ1
+Préndeme todas las luces interiores,LUZ1
+Actívame las luces internas,LUZ1
+Ilumíname toda la cabina con luz,LUZ1
+Configúrame la iluminación interna,LUZ1
+Déjame las luces traseras encendidas,LUZ1
+
+Apágame las luces del conductor,CONDUCTOR0
+Desactívame las luces del conductor,CONDUCTOR0
+Cierra por mí la luz del conductor,CONDUCTOR0
+Déjame la luz del conductor apagada,CONDUCTOR0
+Ponme la luz del conductor en off,CONDUCTOR0
+Apágame completamente la luz del conductor,CONDUCTOR0
+Desconéctame la luz del conductor,CONDUCTOR0
+Ponme la luz del conductor fuera de servicio,CONDUCTOR0
+Corta la energía de la luz del conductor,CONDUCTOR0
+Desactívame la luz delantera del conductor,CONDUCTOR0
+Apágame la luz en la cabina del conductor,CONDUCTOR0
+
+Enciéndeme las luces del conductor,CONDUCTOR1
+Préndeme las luces del conductor,CONDUCTOR1
+Actívame la luz del conductor,CONDUCTOR1
+Ponme la luz del conductor en on,CONDUCTOR1
+Ilumíname la cabina del conductor,CONDUCTOR1
+Configúrame la luz del conductor en encendido,CONDUCTOR1
+Préndeme las luces internas del conductor,CONDUCTOR1
+Déjame la luz del conductor encendida,CONDUCTOR1
+Actívame la luz del conductor completamente,CONDUCTOR1
+Ponme la luz del conductor en modo activo,CONDUCTOR1
+Enciéndeme la luz de la cabina del conductor,CONDUCTOR1
+Ilumíname el espacio del conductor,CONDUCTOR1
+Configúrame la luz del conductor para encendido,CONDUCTOR1
+Déjame las luces del conductor encendidas,CONDUCTOR1
+
+Podrías apagar los faros en bajo por favor ,FARO1
+Serías tan amable de prender los faros en bajo ,FARO1
+Podrías activar los faros en bajo por favor ,FARO1
+Serías tan amable de poner los faros en bajo ,FARO1
+Podrías encender los faros en bajo por favor ,FARO1
+Podrías prender las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de activar las luces delanteras en bajo ,FARO1
+Podrías iluminar el camino en bajo por favor ,FARO1
+Serías tan amable de configurarme los faros en bajo ,FARO1
+Podrías dejar los faros en bajo por favor ,FARO1
+Podrías poner las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de encender los focos en bajo ,FARO1
+Podrías prender la luz frontal en bajo por favor ,FARO1
+Serías tan amable de activar los faros en baja intensidad ,FARO1
+Podrías prender los faros a baja potencia por favor ,FARO1
+Serías tan amable de apagar los faros delanteros en baja intensidad ,FARO1
+Podrías poner los faros delanteros en baja por favor ,FARO1
+Serías tan amable de dejar los faros en mínima intensidad ,FARO1
+
+Podrías apagar los faros en alto por favor ,FARO2
+Serías tan amable de prender los faros en alto ,FARO2
+Podrías activar los faros en alto por favor ,FARO2
+Serías tan amable de poner los faros en alto ,FARO2
+Podrías encender los faros en alto por favor ,FARO2
+Serías tan amable de configurarme los faros en alto ,FARO2
+Podrías dejar los faros en alto por favor ,FARO2
+Podrías iluminar el camino en alto por favor ,FARO2
+Serías tan amable de poner las luces delanteras en alto ,FARO2
+Podrías prender las luces delanteras en alto por favor ,FARO2
+Serías tan amable de activar las luces delanteras en alto ,FARO2
+Podrías encender la luz frontal en alto por favor ,FARO2
+Serías tan amable de iluminar con los faros en alto ,FARO2
+Podrías prender los focos a máxima intensidad por favor ,FARO2
+Serías tan amable de poner los faros a máxima potencia ,FARO2
+Podrías encender los faros con luz intensa por favor ,FARO2
+Serías tan amable de apagar los faros delanteros en alta intensidad ,FARO2
+Podrías dejar los faros a máxima luminosidad por favor ,FARO2
+
+Podrías apagar los faros por favor ,FARO0
+Serías tan amable de desactivar los faros ,FARO0
+Podrías poner los faros en off por favor ,FARO0
+Serías tan amable de cerrar los faros por mí ,FARO0
+Podrías dejar los faros apagados por favor ,FARO0
+Serías tan amable de desconectar las luces delanteras ,FARO0
+Podrías apagar todas las luces delanteras por favor ,FARO0
+Serías tan amable de cortar la energía de los faros ,FARO0
+Podrías apagar los faros delanteros por favor ,FARO0
+Serías tan amable de desactivar la luz frontal ,FARO0
+Podrías apagar las luces delanteras completamente por favor ,FARO0
+Serías tan amable de poner los faros en modo apagado ,FARO0
+Podrías apagar todos los faros frontales por favor ,FARO0
+Serías tan amable de desactivar los faros delanteros por completo ,FARO0
+
+Podrías apagar las luces de los pasajeros por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros ,LUZ0
+Podrías poner la luz interior en off por favor ,LUZ0
+Serías tan amable de cerrar la iluminación de los pasajeros ,LUZ0
+Podrías apagar la luz de cabina por favor ,LUZ0
+Serías tan amable de dejar la luz de los pasajeros apagada ,LUZ0
+Podrías desconectar la luz interior por favor ,LUZ0
+Serías tan amable de apagar la luz trasera ,LUZ0
+Podrías apagar todas las luces internas por favor ,LUZ0
+Serías tan amable de poner las luces interiores en modo apagado ,LUZ0
+Podrías apagar la luz interior por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros completamente ,LUZ0
+Podrías poner la luz interior en estado apagado por favor ,LUZ0
+Serías tan amable de cerrar toda la iluminación de la cabina ,LUZ0
+
+Podrías encender las luces de los pasajeros por favor ,LUZ1
+Serías tan amable de prender la luz interior ,LUZ1
+Podrías activar la luz de los pasajeros por favor ,LUZ1
+Serías tan amable de poner la luz de los pasajeros ,LUZ1
+Podrías prender la iluminación trasera por favor ,LUZ1
+Serías tan amable de configurarme la luz de los pasajeros en encendido ,LUZ1
+Podrías iluminar la cabina con las luces interiores por favor ,LUZ1
+Serías tan amable de dejar las luces de los pasajeros encendidas ,LUZ1
+Podrías activar las luces internas del vehículo por favor ,LUZ1
+Serías tan amable de poner las luces interiores en encendido ,LUZ1
+Podrías prender la luz de cabina por favor ,LUZ1
+Serías tan amable de encender las luces traseras ,LUZ1
+Podrías prender todas las luces interiores por favor ,LUZ1
+Serías tan amable de activar las luces internas ,LUZ1
+Podrías iluminar toda la cabina con luz por favor ,LUZ1
+Serías tan amable de configurar la luz del conductor para encenderla por favor ,CONDUCTOR1
+Serías tan amable de dejar las luces del conductor encendidas ,CONDUCTOR1
+
+Podrías apagar los faros en bajo por favor ,FARO1
+Serías tan amable de prender los faros en bajo ,FARO1
+Podrías activar los faros en bajo por favor ,FARO1
+Serías tan amable de poner los faros en bajo ,FARO1
+Podrías encender los faros en bajo por favor ,FARO1
+Podrías prender las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de activar las luces delanteras en bajo ,FARO1
+Podrías iluminar el camino en bajo por favor ,FARO1
+Serías tan amable de configurarme los faros en bajo ,FARO1
+Podrías dejar los faros en bajo por favor ,FARO1
+Podrías poner las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de encender los focos en bajo ,FARO1
+Podrías prender la luz frontal en bajo por favor ,FARO1
+Serías tan amable de activar los faros en baja intensidad ,FARO1
+Podrías prender los faros a baja potencia por favor ,FARO1
+Serías tan amable de apagar los faros delanteros en baja intensidad ,FARO1
+Podrías poner los faros delanteros en baja por favor ,FARO1
+Serías tan amable de dejar los faros en mínima intensidad ,FARO1
+
+Podrías apagar los faros en alto por favor ,FARO2
+Serías tan amable de prender los faros en alto ,FARO2
+Podrías activar los faros en alto por favor ,FARO2
+Serías tan amable de poner los faros en alto ,FARO2
+Podrías encender los faros en alto por favor ,FARO2
+Serías tan amable de configurarme los faros en alto ,FARO2
+Podrías dejar los faros en alto por favor ,FARO2
+Podrías iluminar el camino en alto por favor ,FARO2
+Serías tan amable de poner las luces delanteras en alto ,FARO2
+Podrías prender las luces delanteras en alto por favor ,FARO2
+Serías tan amable de activar las luces delanteras en alto ,FARO2
+Podrías encender la luz frontal en alto por favor ,FARO2
+Serías tan amable de iluminar con los faros en alto ,FARO2
+Podrías prender los focos a máxima intensidad por favor ,FARO2
+Serías tan amable de poner los faros a máxima potencia ,FARO2
+Podrías encender los faros con luz intensa por favor ,FARO2
+Serías tan amable de apagar los faros delanteros en alta intensidad ,FARO2
+Podrías dejar los faros a máxima luminosidad por favor ,FARO2
+
+Podrías apagar los faros por favor ,FARO0
+Serías tan amable de desactivar los faros ,FARO0
+Podrías poner los faros en off por favor ,FARO0
+Serías tan amable de cerrar los faros por mí ,FARO0
+Podrías dejar los faros apagados por favor ,FARO0
+Serías tan amable de desconectar las luces delanteras ,FARO0
+Podrías apagar todas las luces delanteras por favor ,FARO0
+Serías tan amable de cortar la energía de los faros ,FARO0
+Podrías apagar los faros delanteros por favor ,FARO0
+Serías tan amable de desactivar la luz frontal ,FARO0
+Podrías apagar las luces delanteras completamente por favor ,FARO0
+Serías tan amable de poner los faros en modo apagado ,FARO0
+Podrías apagar todos los faros frontales por favor ,FARO0
+Serías tan amable de desactivar los faros delanteros por completo ,FARO0
+
+Podrías apagar las luces de los pasajeros por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros ,LUZ0
+Podrías poner la luz interior en off por favor ,LUZ0
+Serías tan amable de cerrar la iluminación de los pasajeros ,LUZ0
+Podrías apagar la luz de cabina por favor ,LUZ0
+Serías tan amable de dejar la luz de los pasajeros apagada ,LUZ0
+Podrías desconectar la luz interior por favor ,LUZ0
+Serías tan amable de apagar la luz trasera ,LUZ0
+Podrías apagar todas las luces internas por favor ,LUZ0
+Serías tan amable de poner las luces interiores en modo apagado ,LUZ0
+Podrías apagar la luz interior por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros completamente ,LUZ0
+Podrías poner la luz interior en estado apagado por favor ,LUZ0
+Serías tan amable de cerrar toda la iluminación de la cabina ,LUZ0
+
+Podrías encender las luces de los pasajeros por favor ,LUZ1
+Serías tan amable de prender la luz interior ,LUZ1
+Podrías activar la luz de los pasajeros por favor ,LUZ1
+Serías tan amable de poner la luz de los pasajeros ,LUZ1
+Podrías prender la iluminación trasera por favor ,LUZ1
+Serías tan amable de configurarme la luz de los pasajeros en encendido ,LUZ1
+Podrías iluminar la cabina con las luces interiores por favor ,LUZ1
+Serías tan amable de dejar las luces de los pasajeros encendidas ,LUZ1
+Podrías activar las luces internas del vehículo por favor ,LUZ1
+Serías tan amable de poner las luces interiores en encendido ,LUZ1
+Podrías prender la luz de cabina por favor ,LUZ1
+Serías tan amable de encender las luces traseras ,LUZ1
+Podrías prender todas las luces interiores por favor ,LUZ1
+Serías tan amable de activar las luces internas ,LUZ1
+Podrías iluminar toda la cabina con luz por favor ,LUZ1
+Serías tan amable de configurar la luz del conductor para encenderla por favor ,CONDUCTOR1
+Serías tan amable de dejar las luces del conductor encendidas ,CONDUCTOR1
+
+Podrías apagar los faros en bajo por favor ,FARO1
+Serías tan amable de prender los faros en bajo ,FARO1
+Podrías activar los faros en bajo por favor ,FARO1
+Serías tan amable de poner los faros en bajo ,FARO1
+Podrías encender los faros en bajo por favor ,FARO1
+Podrías prender las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de activar las luces delanteras en bajo ,FARO1
+Podrías iluminar el camino en bajo por favor ,FARO1
+Serías tan amable de configurarme los faros en bajo ,FARO1
+Podrías dejar los faros en bajo por favor ,FARO1
+Podrías poner las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de encender los focos en bajo ,FARO1
+Podrías prender la luz frontal en bajo por favor ,FARO1
+Serías tan amable de activar los faros en baja intensidad ,FARO1
+Podrías prender los faros a baja potencia por favor ,FARO1
+Serías tan amable de apagar los faros delanteros en baja intensidad ,FARO1
+Podrías poner los faros delanteros en baja por favor ,FARO1
+Serías tan amable de dejar los faros en mínima intensidad ,FARO1
+
+Podrías apagar los faros en alto por favor ,FARO2
+Serías tan amable de prender los faros en alto ,FARO2
+Podrías activar los faros en alto por favor ,FARO2
+Serías tan amable de poner los faros en alto ,FARO2
+Podrías encender los faros en alto por favor ,FARO2
+Serías tan amable de configurarme los faros en alto ,FARO2
+Podrías dejar los faros en alto por favor ,FARO2
+Podrías iluminar el camino en alto por favor ,FARO2
+Serías tan amable de poner las luces delanteras en alto ,FARO2
+Podrías prender las luces delanteras en alto por favor ,FARO2
+Serías tan amable de activar las luces delanteras en alto ,FARO2
+Podrías encender la luz frontal en alto por favor ,FARO2
+Serías tan amable de iluminar con los faros en alto ,FARO2
+Podrías prender los focos a máxima intensidad por favor ,FARO2
+Serías tan amable de poner los faros a máxima potencia ,FARO2
+Podrías encender los faros con luz intensa por favor ,FARO2
+Serías tan amable de apagar los faros delanteros en alta intensidad ,FARO2
+Podrías dejar los faros a máxima luminosidad por favor ,FARO2
+
+Podrías apagar los faros por favor ,FARO0
+Serías tan amable de desactivar los faros ,FARO0
+Podrías poner los faros en off por favor ,FARO0
+Serías tan amable de cerrar los faros por mí ,FARO0
+Podrías dejar los faros apagados por favor ,FARO0
+Serías tan amable de desconectar las luces delanteras ,FARO0
+Podrías apagar todas las luces delanteras por favor ,FARO0
+Serías tan amable de cortar la energía de los faros ,FARO0
+Podrías apagar los faros delanteros por favor ,FARO0
+Serías tan amable de desactivar la luz frontal ,FARO0
+Podrías apagar las luces delanteras completamente por favor ,FARO0
+Serías tan amable de poner los faros en modo apagado ,FARO0
+Podrías apagar todos los faros frontales por favor ,FARO0
+Serías tan amable de desactivar los faros delanteros por completo ,FARO0
+
+Podrías apagar las luces de los pasajeros por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros ,LUZ0
+Podrías poner la luz interior en off por favor ,LUZ0
+Serías tan amable de cerrar la iluminación de los pasajeros ,LUZ0
+Podrías apagar la luz de cabina por favor ,LUZ0
+Serías tan amable de dejar la luz de los pasajeros apagada ,LUZ0
+Podrías desconectar la luz interior por favor ,LUZ0
+Serías tan amable de apagar la luz trasera ,LUZ0
+Podrías apagar todas las luces internas por favor ,LUZ0
+Serías tan amable de poner las luces interiores en modo apagado ,LUZ0
+Podrías apagar la luz interior por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros completamente ,LUZ0
+Podrías poner la luz interior en estado apagado por favor ,LUZ0
+Serías tan amable de cerrar toda la iluminación de la cabina ,LUZ0
+
+Podrías encender las luces de los pasajeros por favor ,LUZ1
+Serías tan amable de prender la luz interior ,LUZ1
+Podrías activar la luz de los pasajeros por favor ,LUZ1
+Serías tan amable de poner la luz de los pasajeros ,LUZ1
+Podrías prender la iluminación trasera por favor ,LUZ1
+Serías tan amable de configurarme la luz de los pasajeros en encendido ,LUZ1
+Podrías iluminar la cabina con las luces interiores por favor ,LUZ1
+Serías tan amable de dejar las luces de los pasajeros encendidas ,LUZ1
+Podrías activar las luces internas del vehículo por favor ,LUZ1
+Serías tan amable de poner las luces interiores en encendido ,LUZ1
+Podrías prender la luz de cabina por favor ,LUZ1
+Serías tan amable de encender las luces traseras ,LUZ1
+Podrías prender todas las luces interiores por favor ,LUZ1
+Serías tan amable de activar las luces internas ,LUZ1
+Podrías iluminar toda la cabina con luz por favor ,LUZ1
+Serías tan amable de configurar la luz del conductor para encenderla por favor ,CONDUCTOR1
+Serías tan amable de dejar las luces del conductor encendidas ,CONDUCTOR1
+Podrías apagar los faros en bajo por favor ,FARO1
+Serías tan amable de prender los faros en bajo ,FARO1
+Podrías activar los faros en bajo por favor ,FARO1
+Serías tan amable de poner los faros en bajo ,FARO1
+Podrías encender los faros en bajo por favor ,FARO1
+Podrías prender las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de activar las luces delanteras en bajo ,FARO1
+Podrías iluminar el camino en bajo por favor ,FARO1
+Serías tan amable de configurarme los faros en bajo ,FARO1
+Podrías dejar los faros en bajo por favor ,FARO1
+Podrías poner las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de encender los focos en bajo ,FARO1
+Podrías prender la luz frontal en bajo por favor ,FARO1
+Serías tan amable de activar los faros en baja intensidad ,FARO1
+Podrías prender los faros a baja potencia por favor ,FARO1
+Serías tan amable de apagar los faros delanteros en baja intensidad ,FARO1
+Podrías poner los faros delanteros en baja por favor ,FARO1
+Serías tan amable de dejar los faros en mínima intensidad ,FARO1
+
+Podrías apagar los faros en alto por favor ,FARO2
+Serías tan amable de prender los faros en alto ,FARO2
+Podrías activar los faros en alto por favor ,FARO2
+Serías tan amable de poner los faros en alto ,FARO2
+Podrías encender los faros en alto por favor ,FARO2
+Serías tan amable de configurarme los faros en alto ,FARO2
+Podrías dejar los faros en alto por favor ,FARO2
+Podrías iluminar el camino en alto por favor ,FARO2
+Serías tan amable de poner las luces delanteras en alto ,FARO2
+Podrías prender las luces delanteras en alto por favor ,FARO2
+Serías tan amable de activar las luces delanteras en alto ,FARO2
+Podrías encender la luz frontal en alto por favor ,FARO2
+Serías tan amable de iluminar con los faros en alto ,FARO2
+Podrías prender los focos a máxima intensidad por favor ,FARO2
+Serías tan amable de poner los faros a máxima potencia ,FARO2
+Podrías encender los faros con luz intensa por favor ,FARO2
+Serías tan amable de apagar los faros delanteros en alta intensidad ,FARO2
+Podrías dejar los faros a máxima luminosidad por favor ,FARO2
+
+Podrías apagar los faros por favor ,FARO0
+Serías tan amable de desactivar los faros ,FARO0
+Podrías poner los faros en off por favor ,FARO0
+Serías tan amable de cerrar los faros por mí ,FARO0
+Podrías dejar los faros apagados por favor ,FARO0
+Serías tan amable de desconectar las luces delanteras ,FARO0
+Podrías apagar todas las luces delanteras por favor ,FARO0
+Serías tan amable de cortar la energía de los faros ,FARO0
+Podrías apagar los faros delanteros por favor ,FARO0
+Serías tan amable de desactivar la luz frontal ,FARO0
+Podrías apagar las luces delanteras completamente por favor ,FARO0
+Serías tan amable de poner los faros en modo apagado ,FARO0
+Podrías apagar todos los faros frontales por favor ,FARO0
+Serías tan amable de desactivar los faros delanteros por completo ,FARO0
+
+Podrías apagar las luces de los pasajeros por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros ,LUZ0
+Podrías poner la luz interior en off por favor ,LUZ0
+Serías tan amable de cerrar la iluminación de los pasajeros ,LUZ0
+Podrías apagar la luz de cabina por favor ,LUZ0
+Serías tan amable de dejar la luz de los pasajeros apagada ,LUZ0
+Podrías desconectar la luz interior por favor ,LUZ0
+Serías tan amable de apagar la luz trasera ,LUZ0
+Podrías apagar todas las luces internas por favor ,LUZ0
+Serías tan amable de poner las luces interiores en modo apagado ,LUZ0
+Podrías apagar la luz interior por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros completamente ,LUZ0
+Podrías poner la luz interior en estado apagado por favor ,LUZ0
+Serías tan amable de cerrar toda la iluminación de la cabina ,LUZ0
+
+Podrías encender las luces de los pasajeros por favor ,LUZ1
+Serías tan amable de prender la luz interior ,LUZ1
+Podrías activar la luz de los pasajeros por favor ,LUZ1
+Serías tan amable de poner la luz de los pasajeros ,LUZ1
+Podrías prender la iluminación trasera por favor ,LUZ1
+Serías tan amable de configurarme la luz de los pasajeros en encendido ,LUZ1
+Podrías iluminar la cabina con las luces interiores por favor ,LUZ1
+Serías tan amable de dejar las luces de los pasajeros encendidas ,LUZ1
+Podrías activar las luces internas del vehículo por favor ,LUZ1
+Serías tan amable de poner las luces interiores en encendido ,LUZ1
+Podrías prender la luz de cabina por favor ,LUZ1
+Serías tan amable de encender las luces traseras ,LUZ1
+Podrías prender todas las luces interiores por favor ,LUZ1
+Serías tan amable de activar las luces internas ,LUZ1
+Podrías iluminar toda la cabina con luz por favor ,LUZ1
+Serías tan amable de configurar la luz del conductor para encenderla por favor ,CONDUCTOR1
+Serías tan amable de dejar las luces del conductor encendidas ,CONDUCTOR1
+
+Podrías apagar los faros en bajo por favor ,FARO1
+Serías tan amable de prender los faros en bajo ,FARO1
+Podrías activar los faros en bajo por favor ,FARO1
+Serías tan amable de poner los faros en bajo ,FARO1
+Podrías encender los faros en bajo por favor ,FARO1
+Podrías prender las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de activar las luces delanteras en bajo ,FARO1
+Podrías iluminar el camino en bajo por favor ,FARO1
+Serías tan amable de configurarme los faros en bajo ,FARO1
+Podrías dejar los faros en bajo por favor ,FARO1
+Podrías poner las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de encender los focos en bajo ,FARO1
+Podrías prender la luz frontal en bajo por favor ,FARO1
+Serías tan amable de activar los faros en baja intensidad ,FARO1
+Podrías prender los faros a baja potencia por favor ,FARO1
+Serías tan amable de apagar los faros delanteros en baja intensidad ,FARO1
+Podrías poner los faros delanteros en baja por favor ,FARO1
+Serías tan amable de dejar los faros en mínima intensidad ,FARO1
+
+Podrías apagar los faros en alto por favor ,FARO2
+Serías tan amable de prender los faros en alto ,FARO2
+Podrías activar los faros en alto por favor ,FARO2
+Serías tan amable de poner los faros en alto ,FARO2
+Podrías encender los faros en alto por favor ,FARO2
+Serías tan amable de configurarme los faros en alto ,FARO2
+Podrías dejar los faros en alto por favor ,FARO2
+Podrías iluminar el camino en alto por favor ,FARO2
+Serías tan amable de poner las luces delanteras en alto ,FARO2
+Podrías prender las luces delanteras en alto por favor ,FARO2
+Serías tan amable de activar las luces delanteras en alto ,FARO2
+Podrías encender la luz frontal en alto por favor ,FARO2
+Serías tan amable de iluminar con los faros en alto ,FARO2
+Podrías prender los focos a máxima intensidad por favor ,FARO2
+Serías tan amable de poner los faros a máxima potencia ,FARO2
+Podrías encender los faros con luz intensa por favor ,FARO2
+Serías tan amable de apagar los faros delanteros en alta intensidad ,FARO2
+Podrías dejar los faros a máxima luminosidad por favor ,FARO2
+
+Podrías apagar los faros por favor ,FARO0
+Serías tan amable de desactivar los faros ,FARO0
+Podrías poner los faros en off por favor ,FARO0
+Serías tan amable de cerrar los faros por mí ,FARO0
+Podrías dejar los faros apagados por favor ,FARO0
+Serías tan amable de desconectar las luces delanteras ,FARO0
+Podrías apagar todas las luces delanteras por favor ,FARO0
+Serías tan amable de cortar la energía de los faros ,FARO0
+Podrías apagar los faros delanteros por favor ,FARO0
+Serías tan amable de desactivar la luz frontal ,FARO0
+Podrías apagar las luces delanteras completamente por favor ,FARO0
+Serías tan amable de poner los faros en modo apagado ,FARO0
+Podrías apagar todos los faros frontales por favor ,FARO0
+Serías tan amable de desactivar los faros delanteros por completo ,FARO0
+
+Podrías apagar las luces de los pasajeros por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros ,LUZ0
+Podrías poner la luz interior en off por favor ,LUZ0
+Serías tan amable de cerrar la iluminación de los pasajeros ,LUZ0
+Podrías apagar la luz de cabina por favor ,LUZ0
+Serías tan amable de dejar la luz de los pasajeros apagada ,LUZ0
+Podrías desconectar la luz interior por favor ,LUZ0
+Serías tan amable de apagar la luz trasera ,LUZ0
+Podrías apagar todas las luces internas por favor ,LUZ0
+Serías tan amable de poner las luces interiores en modo apagado ,LUZ0
+Podrías apagar la luz interior por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros completamente ,LUZ0
+Podrías poner la luz interior en estado apagado por favor ,LUZ0
+Serías tan amable de cerrar toda la iluminación de la cabina ,LUZ0
+
+Podrías encender las luces de los pasajeros por favor ,LUZ1
+Serías tan amable de prender la luz interior ,LUZ1
+Podrías activar la luz de los pasajeros por favor ,LUZ1
+Serías tan amable de poner la luz de los pasajeros ,LUZ1
+Podrías prender la iluminación trasera por favor ,LUZ1
+Serías tan amable de configurarme la luz de los pasajeros en encendido ,LUZ1
+Podrías iluminar la cabina con las luces interiores por favor ,LUZ1
+Serías tan amable de dejar las luces de los pasajeros encendidas ,LUZ1
+Podrías activar las luces internas del vehículo por favor ,LUZ1
+Serías tan amable de poner las luces interiores en encendido ,LUZ1
+Podrías prender la luz de cabina por favor ,LUZ1
+Serías tan amable de encender las luces traseras ,LUZ1
+Podrías prender todas las luces interiores por favor ,LUZ1
+Serías tan amable de activar las luces internas ,LUZ1
+Podrías iluminar toda la cabina con luz por favor ,LUZ1
+Serías tan amable de configurar la luz del conductor para encenderla por favor ,CONDUCTOR1
+Serías tan amable de dejar las luces del conductor encendidas ,CONDUCTOR1
+
+Podrías apagar los faros en bajo por favor ,FARO1
+Serías tan amable de prender los faros en bajo ,FARO1
+Podrías activar los faros en bajo por favor ,FARO1
+Serías tan amable de poner los faros en bajo ,FARO1
+Podrías encender los faros en bajo por favor ,FARO1
+Podrías prender las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de activar las luces delanteras en bajo ,FARO1
+Podrías iluminar el camino en bajo por favor ,FARO1
+Serías tan amable de configurarme los faros en bajo ,FARO1
+Podrías dejar los faros en bajo por favor ,FARO1
+Podrías poner las luces delanteras en bajo por favor ,FARO1
+Serías tan amable de encender los focos en bajo ,FARO1
+Podrías prender la luz frontal en bajo por favor ,FARO1
+Serías tan amable de activar los faros en baja intensidad ,FARO1
+Podrías prender los faros a baja potencia por favor ,FARO1
+Serías tan amable de apagar los faros delanteros en baja intensidad ,FARO1
+Podrías poner los faros delanteros en baja por favor ,FARO1
+Serías tan amable de dejar los faros en mínima intensidad ,FARO1
+
+Podrías apagar los faros en alto por favor ,FARO2
+Serías tan amable de prender los faros en alto ,FARO2
+Podrías activar los faros en alto por favor ,FARO2
+Serías tan amable de poner los faros en alto ,FARO2
+Podrías encender los faros en alto por favor ,FARO2
+Serías tan amable de configurarme los faros en alto ,FARO2
+Podrías dejar los faros en alto por favor ,FARO2
+Podrías iluminar el camino en alto por favor ,FARO2
+Serías tan amable de poner las luces delanteras en alto ,FARO2
+Podrías prender las luces delanteras en alto por favor ,FARO2
+Serías tan amable de activar las luces delanteras en alto ,FARO2
+Podrías encender la luz frontal en alto por favor ,FARO2
+Serías tan amable de iluminar con los faros en alto ,FARO2
+Podrías prender los focos a máxima intensidad por favor ,FARO2
+Serías tan amable de poner los faros a máxima potencia ,FARO2
+Podrías encender los faros con luz intensa por favor ,FARO2
+Serías tan amable de apagar los faros delanteros en alta intensidad ,FARO2
+Podrías dejar los faros a máxima luminosidad por favor ,FARO2
+
+Podrías apagar los faros por favor ,FARO0
+Serías tan amable de desactivar los faros ,FARO0
+Podrías poner los faros en off por favor ,FARO0
+Serías tan amable de cerrar los faros por mí ,FARO0
+Podrías dejar los faros apagados por favor ,FARO0
+Serías tan amable de desconectar las luces delanteras ,FARO0
+Podrías apagar todas las luces delanteras por favor ,FARO0
+Serías tan amable de cortar la energía de los faros ,FARO0
+Podrías apagar los faros delanteros por favor ,FARO0
+Serías tan amable de desactivar la luz frontal ,FARO0
+Podrías apagar las luces delanteras completamente por favor ,FARO0
+Serías tan amable de poner los faros en modo apagado ,FARO0
+Podrías apagar todos los faros frontales por favor ,FARO0
+Serías tan amable de desactivar los faros delanteros por completo ,FARO0
+
+Podrías apagar las luces de los pasajeros por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros ,LUZ0
+Podrías poner la luz interior en off por favor ,LUZ0
+Serías tan amable de cerrar la iluminación de los pasajeros ,LUZ0
+Podrías apagar la luz de cabina por favor ,LUZ0
+Serías tan amable de dejar la luz de los pasajeros apagada ,LUZ0
+Podrías desconectar la luz interior por favor ,LUZ0
+Serías tan amable de apagar la luz trasera ,LUZ0
+Podrías apagar todas las luces internas por favor ,LUZ0
+Serías tan amable de poner las luces interiores en modo apagado ,LUZ0
+Podrías apagar la luz interior por favor ,LUZ0
+Serías tan amable de desactivar las luces de los pasajeros completamente ,LUZ0
+Podrías poner la luz interior en estado apagado por favor ,LUZ0
+Serías tan amable de cerrar toda la iluminación de la cabina ,LUZ0
+
+Podrías encender las luces de los pasajeros por favor ,LUZ1
+Serías tan amable de prender la luz interior ,LUZ1
+Podrías activar la luz de los pasajeros por favor ,LUZ1
+Serías tan amable de poner la luz de los pasajeros ,LUZ1
+Podrías prender la iluminación trasera por favor ,LUZ1
+Serías tan amable de configurarme la luz de los pasajeros en encendido ,LUZ1
+Podrías iluminar la cabina con las luces interiores por favor ,LUZ1
+Serías tan amable de dejar las luces de los pasajeros encendidas ,LUZ1
+Podrías activar las luces internas del vehículo por favor ,LUZ1
+Serías tan amable de poner las luces interiores en encendido ,LUZ1
+Podrías prender la luz de cabina por favor ,LUZ1
+Serías tan amable de encender las luces traseras ,LUZ1
+Podrías prender todas las luces interiores por favor ,LUZ1
+Serías tan amable de activar las luces internas ,LUZ1
+Podrías iluminar toda la cabina con luz por favor ,LUZ1
+Serías tan amable de configurar la luz del conductor para encenderla por favor ,CONDUCTOR1
+Serías tan amable de dejar las luces del conductor encendidas ,CONDUCTOR1
+Podrías apagar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de apagar las luces del conductor ,CONDUCTOR0
+Podrías desactivar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en off ,CONDUCTOR0
+Podrías apagar la luz frontal del conductor por favor ,CONDUCTOR0
+Serías tan amable de dejar la luz del conductor apagada ,CONDUCTOR0
+Podrías desconectar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de cerrar la luz del conductor ,CONDUCTOR0
+Podrías poner la luz del conductor en estado apagado por favor ,CONDUCTOR0
+Serías tan amable de desactivar la luz del conductor completamente ,CONDUCTOR0
+Podrías apagar todas las luces del conductor por favor ,CONDUCTOR0
+Serías tan amable de desactivar la iluminación del conductor ,CONDUCTOR0
+Podrías apagar la luz del conductor completamente por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en modo apagado ,CONDUCTOR0
+Podrías encender la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de prender la luz del conductor ,CONDUCTOR1
+Podrías activar la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en encendido ,CONDUCTOR1
+Podrías iluminar el área del conductor por favor ,CONDUCTOR1
+Serías tan amable de dejar la luz del conductor encendida ,CONDUCTOR1
+Podrías activar la luz frontal del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la luz del conductor ,CONDUCTOR1
+Podrías prender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en modo encendido ,CONDUCTOR1
+Podrías prender todas las luces del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la iluminación del conductor ,CONDUCTOR1
+Podrías encender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de activar la luz del conductor por completo ,CONDUCTOR1
+
+Podrías apagar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de apagar las luces del conductor ,CONDUCTOR0
+Podrías desactivar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en off ,CONDUCTOR0
+Podrías apagar la luz frontal del conductor por favor ,CONDUCTOR0
+Serías tan amable de dejar la luz del conductor apagada ,CONDUCTOR0
+Podrías desconectar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de cerrar la luz del conductor ,CONDUCTOR0
+Podrías poner la luz del conductor en estado apagado por favor ,CONDUCTOR0
+Serías tan amable de desactivar la luz del conductor completamente ,CONDUCTOR0
+Podrías apagar todas las luces del conductor por favor ,CONDUCTOR0
+Serías tan amable de desactivar la iluminación del conductor ,CONDUCTOR0
+Podrías apagar la luz del conductor completamente por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en modo apagado ,CONDUCTOR0
+Podrías encender la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de prender la luz del conductor ,CONDUCTOR1
+Podrías activar la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en encendido ,CONDUCTOR1
+Podrías iluminar el área del conductor por favor ,CONDUCTOR1
+Serías tan amable de dejar la luz del conductor encendida ,CONDUCTOR1
+Podrías activar la luz frontal del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la luz del conductor ,CONDUCTOR1
+Podrías prender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en modo encendido ,CONDUCTOR1
+Podrías prender todas las luces del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la iluminación del conductor ,CONDUCTOR1
+Podrías encender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de activar la luz del conductor por completo ,CONDUCTOR1
+
+Podrías apagar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de apagar las luces del conductor ,CONDUCTOR0
+Podrías desactivar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en off ,CONDUCTOR0
+Podrías apagar la luz frontal del conductor por favor ,CONDUCTOR0
+Serías tan amable de dejar la luz del conductor apagada ,CONDUCTOR0
+Podrías desconectar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de cerrar la luz del conductor ,CONDUCTOR0
+Podrías poner la luz del conductor en estado apagado por favor ,CONDUCTOR0
+Serías tan amable de desactivar la luz del conductor completamente ,CONDUCTOR0
+Podrías apagar todas las luces del conductor por favor ,CONDUCTOR0
+Serías tan amable de desactivar la iluminación del conductor ,CONDUCTOR0
+Podrías apagar la luz del conductor completamente por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en modo apagado ,CONDUCTOR0
+Podrías encender la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de prender la luz del conductor ,CONDUCTOR1
+Podrías activar la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en encendido ,CONDUCTOR1
+Podrías iluminar el área del conductor por favor ,CONDUCTOR1
+Serías tan amable de dejar la luz del conductor encendida ,CONDUCTOR1
+Podrías activar la luz frontal del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la luz del conductor ,CONDUCTOR1
+Podrías prender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en modo encendido ,CONDUCTOR1
+Podrías prender todas las luces del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la iluminación del conductor ,CONDUCTOR1
+Podrías encender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de activar la luz del conductor por completo ,CONDUCTOR1
+Podrías apagar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de apagar las luces del conductor ,CONDUCTOR0
+Podrías desactivar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en off ,CONDUCTOR0
+Podrías apagar la luz frontal del conductor por favor ,CONDUCTOR0
+Serías tan amable de dejar la luz del conductor apagada ,CONDUCTOR0
+Podrías desconectar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de cerrar la luz del conductor ,CONDUCTOR0
+Podrías poner la luz del conductor en estado apagado por favor ,CONDUCTOR0
+Serías tan amable de desactivar la luz del conductor completamente ,CONDUCTOR0
+Podrías apagar todas las luces del conductor por favor ,CONDUCTOR0
+Serías tan amable de desactivar la iluminación del conductor ,CONDUCTOR0
+Podrías apagar la luz del conductor completamente por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en modo apagado ,CONDUCTOR0
+Podrías encender la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de prender la luz del conductor ,CONDUCTOR1
+Podrías activar la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en encendido ,CONDUCTOR1
+Podrías iluminar el área del conductor por favor ,CONDUCTOR1
+Serías tan amable de dejar la luz del conductor encendida ,CONDUCTOR1
+Podrías activar la luz frontal del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la luz del conductor ,CONDUCTOR1
+Podrías prender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en modo encendido ,CONDUCTOR1
+Podrías prender todas las luces del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la iluminación del conductor ,CONDUCTOR1
+Podrías encender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de activar la luz del conductor por completo ,CONDUCTOR1
+Podrías apagar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de apagar las luces del conductor ,CONDUCTOR0
+Podrías desactivar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en off ,CONDUCTOR0
+Podrías apagar la luz frontal del conductor por favor ,CONDUCTOR0
+Serías tan amable de dejar la luz del conductor apagada ,CONDUCTOR0
+Podrías desconectar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de cerrar la luz del conductor ,CONDUCTOR0
+Podrías poner la luz del conductor en estado apagado por favor ,CONDUCTOR0
+Serías tan amable de desactivar la luz del conductor completamente ,CONDUCTOR0
+Podrías apagar todas las luces del conductor por favor ,CONDUCTOR0
+Serías tan amable de desactivar la iluminación del conductor ,CONDUCTOR0
+Podrías apagar la luz del conductor completamente por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en modo apagado ,CONDUCTOR0
+Podrías encender la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de prender la luz del conductor ,CONDUCTOR1
+Podrías activar la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en encendido ,CONDUCTOR1
+Podrías iluminar el área del conductor por favor ,CONDUCTOR1
+Serías tan amable de dejar la luz del conductor encendida ,CONDUCTOR1
+Podrías activar la luz frontal del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la luz del conductor ,CONDUCTOR1
+Podrías prender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en modo encendido ,CONDUCTOR1
+Podrías prender todas las luces del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la iluminación del conductor ,CONDUCTOR1
+Podrías encender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de activar la luz del conductor por completo ,CONDUCTOR1
+Podrías apagar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de apagar las luces del conductor ,CONDUCTOR0
+Podrías desactivar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en off ,CONDUCTOR0
+Podrías apagar la luz frontal del conductor por favor ,CONDUCTOR0
+Serías tan amable de dejar la luz del conductor apagada ,CONDUCTOR0
+Podrías desconectar la luz del conductor por favor ,CONDUCTOR0
+Serías tan amable de cerrar la luz del conductor ,CONDUCTOR0
+Podrías poner la luz del conductor en estado apagado por favor ,CONDUCTOR0
+Serías tan amable de desactivar la luz del conductor completamente ,CONDUCTOR0
+Podrías apagar todas las luces del conductor por favor ,CONDUCTOR0
+Serías tan amable de desactivar la iluminación del conductor ,CONDUCTOR0
+Podrías apagar la luz del conductor completamente por favor ,CONDUCTOR0
+Serías tan amable de poner la luz del conductor en modo apagado ,CONDUCTOR0
+Podrías encender la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de prender la luz del conductor ,CONDUCTOR1
+Podrías activar la luz del conductor por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en encendido ,CONDUCTOR1
+Podrías iluminar el área del conductor por favor ,CONDUCTOR1
+Serías tan amable de dejar la luz del conductor encendida ,CONDUCTOR1
+Podrías activar la luz frontal del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la luz del conductor ,CONDUCTOR1
+Podrías prender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de poner la luz del conductor en modo encendido ,CONDUCTOR1
+Podrías prender todas las luces del conductor por favor ,CONDUCTOR1
+Serías tan amable de encender la iluminación del conductor ,CONDUCTOR1
+Podrías encender la luz del conductor completamente por favor ,CONDUCTOR1
+Serías tan amable de activar la luz del conductor por completo ,CONDUCTOR1
