@@ -20,7 +20,7 @@ def send_message(message):
         print(f"Error: {e}")
 
 def main():
-    send_message("FARO2")
+    send_message("FARO0")
 
     if 'ser' in locals() and ser.is_open:
         ser.close()

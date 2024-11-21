@@ -12,4 +12,12 @@ def predict_intent(query, threshold=0.6):
     if max_prob >= threshold:
         return model.predict(query_tfidf)[0]
     else:
+<<<<<<< HEAD
+        return "fallback"
+
+# Example usage
+new_query = "Apaga los faros porfavor"
+print(f"Predicted Intent: {predict_intent(new_query)}")
+=======
         raise ValueError("Fallback")
+>>>>>>> 692a689 (segunda implementación funcional)
