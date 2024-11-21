@@ -14,6 +14,6 @@ def predict_intent(query, threshold=0.6):
     else:
         raise ValueError("Fallback")
 # Example usage
-new_query = "hay que encender los faros en bajo"
+new_query = "prende los pasajeros"
 print(f"Predicted Intent: {predict_intent(new_query)}")
 
