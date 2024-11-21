@@ -38,22 +38,40 @@ def raw_text():
         if result == "FARO0": 
             state = False
             type = "Faros"
-            message = "Faros apagados"
+            message = "Apagando las luces de los faros"
         elif result == "FARO1":
             state = False
             type = "Faros"
-            message = "Faros encendidos en luz baja"
+            message = "Encendiendo faros en baja potencia"
         elif result == "FARO2":
             state = True
             type = "Faros"
-            message = "Faros encendidos en luz alta"
+            message = "Encendiendo faros en alta potencia"
+        elif result == "CONDUCTOR1":
+            state = True
+            type = "Conductor"
+            message = "Encendiendo las luces en el area del coductor"
+        elif result == "CONDUCTOR0":
+            state = False
+            type = "Conductor"
+            message = "Apagando las luces en el area del conductor"
+        elif result == "INTER0":
+            state = False
+            type = "Intermitentes"
+            message = "Apagando las intermitentes"
+        elif result == "INTER1":
+            state = True
+            type = "Intermitentes"
+            message = "Encendiendo las intermitentes"
+
+
 
         try: 
             send_message(result)
         except:
             state = False
             type = "Error"
-            message = "Hubo un error al conectarse con el arduino"
+            message = "Hubo un error al conectarse con el systema"
             code = 500
 
         # Succesful prediction
@@ -67,7 +85,7 @@ def raw_text():
         response = {
             "state": False,  # Set state to False for errors
             "type": "Error",
-            "message": "Lo siento no entendí lo que quieres decir"
+            "message": "Lo siento no entendí lo que quieres decir, ¿podrías intentar de nuevo?"
         }
         code = 400
     

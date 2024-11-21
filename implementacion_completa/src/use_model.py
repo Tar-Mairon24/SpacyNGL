@@ -13,3 +13,7 @@ def predict_intent(query, threshold=0.6):
         return model.predict(query_tfidf)[0]
     else:
         raise ValueError("Fallback")
+# Example usage
+new_query = "hay que encender los faros en bajo"
+print(f"Predicted Intent: {predict_intent(new_query)}")
+
